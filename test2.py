@@ -1,4 +1,4 @@
 a=int(input())
 b=int(input())
-def Sum(a,b):
-    return a+b
+def Multi(a,b):
+    return a*b
