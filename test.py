@@ -1,4 +1,4 @@
 a,b,c=map(int(input().split()))
 s=a+b+c
 print("s=",s)
-print("multiple choice!")
+print("Hello")
