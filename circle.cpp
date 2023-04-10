@@ -3,9 +3,9 @@
 
  int main()
  {
-    int a, b;
-    cin >> a >>b;
-    int S = a+b;
+    int a, b,c;
+    cin >> a >>b>>c;
+    int S = a+b +c;
     cout<<S << endl;
     return 0;
  }
