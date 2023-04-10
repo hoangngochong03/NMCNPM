@@ -3,6 +3,9 @@
 
  int main()
  {
-    cout<<"Hello world";
+    int a, b;
+    cin >> a >>b;
+    int S = a+b ;
+    cout<<S << endl;
     return 0;
  }
