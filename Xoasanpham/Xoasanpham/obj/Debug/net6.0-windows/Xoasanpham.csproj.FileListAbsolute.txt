@@ -1,0 +1,7 @@
+C:\Users\Dell Pre 5540\Boardgame\Xoasanpham\Xoasanpham\Xoasanpham\obj\Debug\net6.0-windows\Xoasanpham.csproj.AssemblyReference.cache
+C:\Users\Dell Pre 5540\Boardgame\Xoasanpham\Xoasanpham\Xoasanpham\obj\Debug\net6.0-windows\Xoasanpham.Xoasanpham.resources
+C:\Users\Dell Pre 5540\Boardgame\Xoasanpham\Xoasanpham\Xoasanpham\obj\Debug\net6.0-windows\Xoasanpham.csproj.GenerateResource.cache
+C:\Users\Dell Pre 5540\Boardgame\Xoasanpham\Xoasanpham\Xoasanpham\obj\Debug\net6.0-windows\Xoasanpham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Pre 5540\Boardgame\Xoasanpham\Xoasanpham\Xoasanpham\obj\Debug\net6.0-windows\Xoasanpham.AssemblyInfoInputs.cache
+C:\Users\Dell Pre 5540\Boardgame\Xoasanpham\Xoasanpham\Xoasanpham\obj\Debug\net6.0-windows\Xoasanpham.AssemblyInfo.cs
+C:\Users\Dell Pre 5540\Boardgame\Xoasanpham\Xoasanpham\Xoasanpham\obj\Debug\net6.0-windows\Xoasanpham.csproj.CoreCompileInputs.cache
